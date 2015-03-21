@@ -1,1 +1,2 @@
-tmp/* //忽略tmp文件夹所有文件
+tmp/*
+node_modules/*
